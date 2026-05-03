@@ -18,14 +18,17 @@ Research writing and academic presentation.
 - Drawing, Photography, Music (Guitar), Creative Thinking, Writing,Team Collaboration, Cultural Exploration.
 
 #  EXTRACURRICULAR ACTIVITIES 
-- Developed Pet App and academic websites as part of coursework and applied projects. (assets/img/Screenshot 2025-11-27 215750.png)
+- Developed Pet App and academic websites as part of coursework and applied projects.
+- ![Pet App Screenshot](/assets/img/Screenshot%202025-11-27%20215750.png)
 - Completed multiple advanced online courses from Stanford, Harvard, Coursera, and Kaggle in Python, Machine Learning, Data Analysis, and Artificial Intelligence.
 - Active participation in Olympiads: Mathematics, Biology, and English, strengthening problem-solving and analytical skills.
 - Engaged in independent research and exploration in NLP, Biomedical NLP, and Machine Learning.
 
 # AWARDS AND CERTIFICATES 
 - Participated in several Olympiads such as Biology Olympiad (2018), English Olympiad (2019), and Mathematical Olympiad 2021 on 27 March 2021 (Online Regional). 
-- Certificate of Achievement Digital Art Competition (UN75 2020 AND BEYOND). (assets/img/Screenshot_20221111-230313_Gallery.jpg)
+- Certificate of Achievement Digital Art Competition (UN75 2020 AND BEYOND).
+- ![Certificate of Achievement - Digital Art Competition](/assets/img/Screenshot_20221111-230313_Gallery.jpg)
+
 - Certificate of Completion - Stanford University's Code in Place 
  
 # RESEARCH AND PUBLICATIONS
