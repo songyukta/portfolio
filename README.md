@@ -2,17 +2,22 @@
 Final-year Computer Science and Engineering student at Leading University, Sylhet, Bangladesh, with strong academic training in Python, Machine Learning, Data Analysis, and algorithmic design. Skilled in developing and evaluating ML models, preprocessing complex datasets, and conducting applied research. With a consistent academic record (CGPA 3.56/4.00), I am dedicated to advancing research in Natural Language Processing, Biomedical NLP, and Machine Learning, and committed to contributing to impactful innovations in AI.
 
 # EDUCATION
-B. Sc. in Computer Science and Engineering|Leading University, Sylhet, Bangladesh.|2021 - 2026 (expected)| CGPA (till 4-I): 3.56 (on a scale of 4.00)
-Higher Secondary Certificate |Madan Mohan College, Sylhet, Bangladesh.| 2021 |GPA: 4.67 (out of 5.00)
-Secondary School Certificate |Govt. Agragami Girls’ High School and College, Sylhet, Bangladesh. |2019| GPA: 4.33 (out of 5.00)
+B. Sc. in Computer Science and Engineering|Leading University, Sylhet, Bangladesh.
+|2021 - 2026 (expected)| CGPA (till 4-I): 3.56 (on a scale of 4.00)
+Higher Secondary Certificate |Madan Mohan College, Sylhet, Bangladesh.
+| 2021 |GPA: 4.67 (out of 5.00)
+Secondary School Certificate |Govt. Agragami Girls’ High School and College, Sylhet, Bangladesh. 
+|2019| GPA: 4.33 (out of 5.00)
 
 # SKILL(S)
 ** Basic
-- MS Word, Excel, PowerPoint Presentation,Spreadsheets, Data Cleaning, Statistical Analysis, Information Management, Web development and design. 
+- MS Word, Excel, PowerPoint Presentation,Spreadsheets, Data Cleaning, Statistical Analysis, Information Management, Web development and design.
+  
 ** Programming Languages and Frameworks
 - Python, C, C++, Java, Dart, HTML, Flutter, Data Analysis, Machine Learning, Database design, Algorithm design and implementation, (NLP) techniques
-Research writing and academic presentation. 
-**Others (Hobby)
+Research writing and academic presentation.
+
+** Others (Hobby)
 - Drawing, Photography, Music (Guitar), Creative Thinking, Writing,Team Collaboration, Cultural Exploration.
 
 #  EXTRACURRICULAR ACTIVITIES 
