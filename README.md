@@ -25,7 +25,7 @@ Research writing and academic presentation.
 
 # AWARDS AND CERTIFICATES 
 - Participated in several Olympiads such as Biology Olympiad (2018), English Olympiad (2019), and Mathematical Olympiad 2021 on 27 March 2021 (Online Regional). 
-- Certificate of Achievement Digital Art Competition (UN75 2020 AND BEYOND).(Screenshot_20221111-230313_Gallery.jpg)
+- Certificate of Achievement Digital Art Competition (UN75 2020 AND BEYOND). (Screenshot_20221111-230313_Gallery.jpg)
 - Certificate of Completion - Stanford University's Code in Place 
  
 # RESEARCH AND PUBLICATIONS
